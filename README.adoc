@@ -1,0 +1,3 @@
+== openapi-inheritance
+
+This is the demo app for https://zomzog.fr/2020/05/openapi-generator-inheritance/[Openapi-generator inheritance]
